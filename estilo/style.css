@@ -13,27 +13,23 @@ main {
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.651);
 }
 h1 {
-font-size: 2em;
-color: beige;
-
+  font-size: 2em;
+  color: black;
 }
 h2 {
-font-size: 1,5em;
-color: beige;
-
+  font-size: 1, 5em;
+  color: black;
 }
-img.lado{
-    float: right;
+img.lado {
+  float: right;
 }
 
 a {
-text-decoration: none;
-font-weight: bold;
-color: beige;
-
+  text-decoration: none;
+  font-weight: bold;
+  color: beige;
 }
 a:hover {
-    text-decoration: underline;
-    color: beige;
-
+  text-decoration: underline;
+  color: beige;
 }
