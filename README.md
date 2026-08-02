@@ -1,4 +1,2 @@
-# Olá, Mundo!
-Primeiro repositório do curso **Git e GitHub**
-
-Repositório criado durande uma aula ao vivo!
+# projeto-site
+Projeto criado no curso de Git e GitHub
